@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="devopstest.devopstest.AppTest" time="0.06" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\josejavaprj\devopstest\target\test-classes;D:\josejavaprj\devopstest\target\classes;C:\Users\awsjo\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Microsoft"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.microsoft.com"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\awsjo\AppData\Local\Temp\surefire7957377143571330488\surefirebooter-20261026080346910_3.jar C:\Users\awsjo\AppData\Local\Temp\surefire7957377143571330488 2026-10-26T08-03-46_591-jvmRun1 surefire-20261026080346910_1tmp surefire_0-20261026080346910_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\josejavaprj\devopstest\target\test-classes;D:\josejavaprj\devopstest\target\classes;C:\Users\awsjo\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\awsjo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-08-18"/>
+    <property name="java.home" value="C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="D:\josejavaprj\devopstest"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\awsjo\AppData\Local\Temp\surefire7957377143571330488\surefirebooter-20261026080346910_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.20.1+1-LTS"/>
+    <property name="user.name" value="awsjo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Microsoft-14940689"/>
+    <property name="localRepository" value="C:\Users\awsjo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\awsjo\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.20.1"/>
+    <property name="user.dir" value="D:\josejavaprj\devopstest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/awsjo/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822/jre/bin/server;C:/Users/awsjo/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822/jre/bin;C:\Program Files\Microsoft\jdk-17.0.20.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\Program Files\Kubernetes\Minikube;C:\Program Files\RedHat\Podman\;C:\Program Files\nodejs\;C:\Program Files\WSL\;C:\Users\awsjo\AppData\Local\com.LangflowDesktop\uv;C:\Users\awsjo\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\awsjo\AppData\Local\Programs\Python\Python312\;C:\Users\awsjo\AppData\Local\Programs\Python\Launcher\;C:\Users\awsjo\AppData\Local\Microsoft\WindowsApps;C:\Users\awsjo\AppData\Local\Programs\Podman\;C:\Users\awsjo\AppData\Local\Programs\Ollama;D:\spring\spring-4.0.3\bin;C:\Users\awsjo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\awsjo\AppData\Roaming\Composer\vendor\bin;C:\Users\awsjo\Downloads\apache-maven-3.9.14-bin\apache-maven-3.9.14\bin;C:\maven\bin;C:\Program Files\Kubernetes\Minikube;D:\python;C:\protobuff\bin;C:\hadoop\bin;C:\Users\awsjo\.local\bin;C:\Program Files\Java\jdk-21.0.10\bin;C:\Users\awsjo\AppData\Roaming\npm;C:\Users\awsjo\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Users\awsjo\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\MySQL\MySQL Server 26.7\bin;C:\maven\bin;C:\Users\awsjo\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;E:\maven\bin;;C:\Windows\system32;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Microsoft"/>
+    <property name="java.vm.version" value="17.0.20.1+1-LTS"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="devopstest.devopstest.AppTest" time="0.006"/>
+</testsuite>
